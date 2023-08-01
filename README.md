@@ -1,6 +1,6 @@
 # Stripe card payment with custom Ui in flutter
 
-[![stripe](https://github.com/rp3110/stripe-payment-with-customiui/blob/main/screenshot/stripe_logo.png "stripe")
+[![stripe](https://github.com/dhavalsabhaya1/FlutterStripePayment/blob/main/stripe-payment-with-custom-ui-main/screenshot/stripe_logo.png "stripe")
 
 With the use of ***[flutter_stripe](https://pub.dev/packages/flutter_stripe)*** we can easily implement ***Stripe Payment***  with the default UI. But what if we want to use it in a different style? So, in this flutter app, I have implemented Stripe with a custom UI.
 
@@ -69,5 +69,5 @@ With the use of ***[flutter_stripe](https://pub.dev/packages/flutter_stripe)*** 
 
 # Demo
 
-[![Image](https://bitbucket.org/rutu31/stripe_payment_with_custom_ui/raw/23fc0b79acf2c3987d3e592d4934b0ce07ddcb65/screenshot/app_demo.png "Image")](https://bitbucket.org/rutu31/stripe_payment_with_custom_ui/raw/23fc0b79acf2c3987d3e592d4934b0ce07ddcb65/screenshot/app_demo.png "Image")
-[![image2](https://bitbucket.org/rutu31/stripe_payment_with_custom_ui/raw/23fc0b79acf2c3987d3e592d4934b0ce07ddcb65/screenshot/stripe_payment.png "image2")](https://bitbucket.org/rutu31/stripe_payment_with_custom_ui/raw/23fc0b79acf2c3987d3e592d4934b0ce07ddcb65/screenshot/stripe_payment.png "image2")
+[![Image](https://github.com/dhavalsabhaya1/FlutterStripePayment/blob/main/stripe-payment-with-custom-ui-main/screenshot/app_demo.png "Image")](https://bitbucket.org/rutu31/stripe_payment_with_custom_ui/raw/23fc0b79acf2c3987d3e592d4934b0ce07ddcb65/screenshot/app_demo.png "Image")
+[![image2](https://github.com/dhavalsabhaya1/FlutterStripePayment/blob/main/stripe-payment-with-custom-ui-main/screenshot/stripe_payment.png "image2")](https://github.com/dhavalsabhaya1/FlutterStripePayment/blob/main/stripe-payment-with-custom-ui-main/screenshot/stripe_payment.png "image2")
