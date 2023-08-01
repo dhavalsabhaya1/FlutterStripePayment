@@ -65,7 +65,7 @@ With the use of ***[flutter_stripe](https://pub.dev/packages/flutter_stripe)*** 
 - [Flutter Credit Card Input Form](https://itnext.io/flutter-credit-card-input-form-1a1e0b1ec040"CreditCard")
 
 # Creator
-- [Dhaval Sabhaya](https://github.com/dhavalsabhaya1"Dhaval")
+- [Rutu Hirapara](https://github.com/rp3110"Rutu")
 
 # Demo
 
